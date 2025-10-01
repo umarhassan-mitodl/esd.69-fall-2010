@@ -1,0 +1,15 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 4e6b6aef-e480-ef45-59b8-16e81d83d322
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 5eb056da-11c2-0e68-b799-af70cb61050d
+  name: Lectures and Readings
+  pageRef: /pages/lecture-slides-and-reading-assignments
+  weight: 20
+- identifier: dab45bb9-ea2c-b92e-a86b-b4dec6d46465
+  name: Projects
+  pageRef: /pages/projects
+  weight: 30
